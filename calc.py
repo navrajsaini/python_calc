@@ -3,7 +3,6 @@ def add(x, y) :
   addition = float(x) + float(y)
   return addition
   
-  
 def mult (x, y) :
   return float(x) * float (y)
   
